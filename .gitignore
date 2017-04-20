@@ -1,1 +1,10 @@
-.gitignore
+intermediate
+util
+images
+a.out
+!*.tar.*
+Makefile
+apps
+platform
+Rules.mk
+*.swp
