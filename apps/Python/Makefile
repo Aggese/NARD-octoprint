@@ -3,7 +3,7 @@
 # Copyright (C) 2014 Ronny Nilsson
 #
 # based of the Python3 nard app by Manuel Faux
-
+# started edit for python 2.7 by Axel Hynsjo
 
 include ../../Rules.mk                                                                                                                  # Common used stuff
 
